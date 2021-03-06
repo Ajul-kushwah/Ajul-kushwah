@@ -3,12 +3,10 @@
 <!--
 **Ajul-kushwah/Ajul-kushwah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
 <br/>
 <a href="https://" target="_blank" >
   <img align="left" alt="Ajul | Website" width="42px" src="https://lh3.googleusercontent.com/d/1zzcPRnrwohh-nmFdz0eBRVneSKPcMtbP=s220?authuser=0" />
-</a>
-(https://ajul-kushwah.github.io/)
+</a>  https://ajul-kushwah.github.io/
 
 <br/>
 <br/>
