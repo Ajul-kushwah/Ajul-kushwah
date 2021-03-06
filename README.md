@@ -5,18 +5,23 @@
 -->
 
 <br/>
+<a href="https://" target="_blank" >
+  <img align="left" alt="Ajul | Website" width="22px" src="https://lh3.googleusercontent.com/d/1zzcPRnrwohh-nmFdz0eBRVneSKPcMtbP=s220?authuser=0" />
+</a>
+![Portfolio](https://ajul-kushwah.github.io/)
+<br/>
 <a href="https://twitter.com/" target="_blank" >
-  <img align="left" alt="Mayank | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Ajul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ajul-kushwah/" target="_blank">
-  <img align="left" alt="Mayank's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ajul's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <!--
 <a href="https://leetcode.com/" target="_blank">
-  <img align="left" alt="Mayank's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Ajul's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a> -->
 <a href="https://www.hackerrank.com/Ajulkushwah" target="_blank">
-  <img align="left" alt="Mayank's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="left" alt="Ajul's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ajul-kushwah.Ajul-kushwah)
