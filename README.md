@@ -11,15 +11,19 @@
 <a href="https://www.linkedin.com/in/ajul-kushwah/" target="_blank">
   <img align="left" alt="Mayank's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<!--
 <a href="https://leetcode.com/" target="_blank">
   <img align="left" alt="Mayank's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a> -->
+<a href="https://www.hackerrank.com/Ajulkushwah" target="_blank">
+  <img align="left" alt="Mayank's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ajul-kushwah.Ajul-kushwah)
 
 <br />
 
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -30,6 +34,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+- 🔭 I’m currently working on Social Media Website.
+- 🌱 I’m currently learning DSA
+- 💬 Ask me about **Django, Python or DSA**
+- 📫 How to reach me: [Mail](mailto:ajulkushwah786@gmail.com), [LinkedIn](https://www.linkedin.com/in/ajul-kushwah/).
+- 😄 Pronouns: He/him
+- ⚡ Passion: Developing Projects.
 
 
 ### Technical Skills
