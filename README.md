@@ -5,13 +5,13 @@
 -->
 
 <br/>
-<a href="https://twitter.com/">
+<a href="https://twitter.com/" target="_blank" >
   <img align="left" alt="Mayank | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ajul-kushwah/">
+<a href="https://www.linkedin.com/in/ajul-kushwah/" target="_blank">
   <img align="left" alt="Mayank's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/" target="_blank">
   <img align="left" alt="Mayank's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
