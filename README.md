@@ -8,7 +8,9 @@
 <a href="https://" target="_blank" >
   <img align="left" alt="Ajul | Website" width="22px" src="https://lh3.googleusercontent.com/d/1zzcPRnrwohh-nmFdz0eBRVneSKPcMtbP=s220?authuser=0" />
 </a>
-![Portfolio](https://ajul-kushwah.github.io/)
+![LinkedIn](https://ajul-kushwah.github.io/)
+
+<br/>
 <br/>
 <a href="https://twitter.com/" target="_blank" >
   <img align="left" alt="Ajul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
