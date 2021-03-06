@@ -6,9 +6,9 @@
 
 <br/>
 <a href="https://" target="_blank" >
-  <img align="left" alt="Ajul | Website" width="22px" src="https://lh3.googleusercontent.com/d/1zzcPRnrwohh-nmFdz0eBRVneSKPcMtbP=s220?authuser=0" />
+  <img align="left" alt="Ajul | Website" width="42px" src="https://lh3.googleusercontent.com/d/1zzcPRnrwohh-nmFdz0eBRVneSKPcMtbP=s220?authuser=0" />
 </a>
-![LinkedIn](https://ajul-kushwah.github.io/)
+(https://ajul-kushwah.github.io/)
 
 <br/>
 <br/>
